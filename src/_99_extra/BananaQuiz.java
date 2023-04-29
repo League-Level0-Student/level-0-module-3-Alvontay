@@ -8,6 +8,7 @@ public class BananaQuiz
 	
 	public static void main(String[] args)
 	{
+		
 		//1. ask the user if they like bananas
 		//2. if they say no, 
 			//tell them they are crazy 
